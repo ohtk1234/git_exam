@@ -4,3 +4,5 @@
 #### Github README.md : project 소개, 설치법, 사용법 등을 작성
 
 #### git pull 연습중
+
+branch 연습중(나 board야)
